@@ -1,0 +1,8 @@
+{
+  "name": "BDI Validator",
+  "description": "Validate your startup idea with institutional-grade AI analysis, real-time market intelligence, competitor SWOT, TAM/SAM/SOM sizing, and investor-ready reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
